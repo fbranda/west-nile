@@ -24,7 +24,7 @@
 | **denominazione_regione**       | Denominazione della Regione       | Name of the Region                     | Testo                         | Friuli Venezia Giulia             |
 | **lat**                         | Latitudine                        | Latitude                               | WGS84                         | 45.6494354          |
 | **long**                        | Longitudine                       | Longitude                              | WGS84                         | 13.76813649        |
-| **nuovi_casi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 2                |
+| **nuovi_casi**  | Nuovi attualmente positivi (casi_totali giorno corrente - casi_totali giorno precedente)       | News amount of current positive cases (casi_totali current day - casi_totali previous day)  | Numero                        | 2                |
 | **casi_totali**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tipo_infezione**              | Note sui casi testati                  | Notes on the cases tested                       | Testo                        | neuroinvasiva                   |
 
@@ -46,11 +46,11 @@
 | **sigla_provincia**         | Sigla della Provincia               | Province abbreviation           | Testo              | GO                  |
 | **lat**                     | Latitudine                          | Latitude                        | WGS84              | 45.94149817           |
 | **long**                    | Longitudine                         | Longitude                       | WGS84              | 13.62212502          |
-| **eta**  | Eta dei casi testati        | Age of the cases tested  | Numero                        | `<=14`, `15-44`, `45-64`, `65-74`, `>=75`       | `45-64`
-| **nuovi_casi**  | Nuovi attualmente positivi (totale_casi giorno corrente - totale_casi giorno precedente)       | News amount of current positive cases (totale_casi current day - totale_casi previous day)  | Numero                        | 2                |
+| **eta**  | Eta dei casi testati        | Age of the cases tested  | Numero                        | `<=14`, `15-44`, `45-64`, `65-74`, `>=75`       | `45-64` |
+| **nuovi_casi**  | Nuovi attualmente positivi (casi_totali giorno corrente - casi_totali giorno precedente)       | News amount of current positive cases (casi_totali current day - casi_totali previous day)  | Numero                        | 2                |
 | **casi_totali**                 | Totale casi positivi              | Total amount of positive cases         | Numero                        | 3                   |
 | **tipo_infezione**              | Note sui casi testati                  | Notes on the cases tested                       | Testo                        | neuroinvasiva                   |
-<br><br><br>
+
 
 
 ### Licenza
