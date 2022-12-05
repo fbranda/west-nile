@@ -55,7 +55,7 @@ west-nile/
 
 ## Data formats
 
-- [Evoulution data about West Nile Italy (IT)](dati-andamento-wn-italia.md)<br>
+- [Evoulution data about West Nile Italy (IT)](dati-andamento-wnv-italia.md)<br>
 
 ## Example of data use
 
