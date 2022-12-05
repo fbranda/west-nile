@@ -59,18 +59,18 @@ west-nile/
 
 ## Esempio d'uso dei dati
 
-**Download diretto (CSV)**: https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati/totale_casi.csv
+**Download diretto (CSV)**: https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati-andamento-nazionale/wn-ita-andamento-nazionale-2022.csv
 
 **Python** (richiede `pandas`):
 ```python
 import pandas as pd
-df = pd.read_csv("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati/totale_casi.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati-andamento-nazionale/wn-ita-andamento-nazionale-2022.csv")
 ```
 
 **R** (richiede `httr`):
 ```r
 library(httr)
-df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati/totale_casi.csv")))
+df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati-andamento-nazionale/wn-ita-andamento-nazionale-2022.csv")))
 ```
 
 ## Licenza
