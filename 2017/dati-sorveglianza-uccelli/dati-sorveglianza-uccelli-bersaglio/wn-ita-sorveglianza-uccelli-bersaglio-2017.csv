@@ -1,0 +1,114 @@
+"url_bollettino","data","codice_regione","denominazione_regione","codice_provincia","denominazione_provincia","sigla_provincia","lat","long","specie","nuovi_casi","casi_totali"
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_01.pdf",2017-08-02,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",2,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_01.pdf",2017-08-02,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",2,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_01.pdf",2017-08-02,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",1,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_02.pdf",2017-08-10,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",1,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_02.pdf",2017-08-10,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_02.pdf",2017-08-10,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_02.pdf",2017-08-10,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_02.pdf",2017-08-10,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_02.pdf",2017-08-10,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",1,3
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_03.pdf",2017-08-30,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",3,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_03.pdf",2017-08-30,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",1,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_03.pdf",2017-08-30,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,3,"Lombardia",15,"Milano","MI",45.46679409,9.190347404,"Cornacchia",1,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",2,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",0,3
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_04.pdf",2017-09-06,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",2,5
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_05.pdf",2017-09-13,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Cornacchia",1,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_05.pdf",2017-09-13,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_06.pdf",2017-09-20,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_06.pdf",2017-09-20,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_06.pdf",2017-09-20,3,"Lombardia",15,"Milano","MI",45.46679409,9.190347404,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_06.pdf",2017-09-20,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_06.pdf",2017-09-20,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_06.pdf",2017-09-20,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_06.pdf",2017-09-20,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",0,5
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_07.pdf",2017-09-27,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_07.pdf",2017-09-27,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_07.pdf",2017-09-27,3,"Lombardia",15,"Milano","MI",45.46679409,9.190347404,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_07.pdf",2017-09-27,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_07.pdf",2017-09-27,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_07.pdf",2017-09-27,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_07.pdf",2017-09-27,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",0,5
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,8,"Emilia-Romagna",38,"Ferrara","FE",44.83599085,11.61868934,"Gazza",1,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,3,"Lombardia",15,"Milano","MI",45.46679409,9.190347404,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,20,"Sardegna",95,"Oristano","OR",39.90381075,8.591183151,"Cornacchia",2,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",1,6
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_08.pdf",2017-10-04,1,"Piemonte",2,"Vercelli","VC",45.32398135,8.423234312,"Cornacchia",2,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",3,7
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,8,"Emilia-Romagna",38,"Ferrara","FE",44.83599085,11.61868934,"Gazza",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,3,"Lombardia",98,"Lodi","LO",45.31440693,9.503720769,"Cornacchia",1,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,3,"Lombardia",15,"Milano","MI",45.46679409,9.190347404,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,20,"Sardegna",95,"Oristano","OR",39.90381075,8.591183151,"Cornacchia",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",0,6
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_09.pdf",2017-10-11,1,"Piemonte",2,"Vercelli","VC",45.32398135,8.423234312,"Cornacchia",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",0,7
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,3,"Lombardia",19,"Cremona","CR",45.13336675,10.02420865,"Cornacchia",1,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,8,"Emilia-Romagna",38,"Ferrara","FE",44.83599085,11.61868934,"Gazza",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,3,"Lombardia",98,"Lodi","LO",45.31440693,9.503720769,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,20,"Sardegna",106,"Medio Campidano","VS",39.56296,8.65345,"Cornacchia",3,3
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,3,"Lombardia",15,"Milano","MI",45.46679409,9.190347404,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,20,"Sardegna",95,"Oristano","OR",39.90381075,8.591183151,"Cornacchia",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",0,6
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_10.pdf",2017-10-18,1,"Piemonte",2,"Vercelli","VC",45.32398135,8.423234312,"Cornacchia",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",0,7
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,3,"Lombardia",19,"Cremona","CR",45.13336675,10.02420865,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,8,"Emilia-Romagna",38,"Ferrara","FE",44.83599085,11.61868934,"Gazza",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,3,"Lombardia",98,"Lodi","LO",45.31440693,9.503720769,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,20,"Sardegna",106,"Medio Campidano","VS",39.56296,8.65345,"Cornacchia",0,3
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,3,"Lombardia",15,"Milano","MI",45.46679409,9.190347404,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,20,"Sardegna",95,"Oristano","OR",39.90381075,8.591183151,"Cornacchia",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",1,7
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_11.pdf",2017-10-25,1,"Piemonte",2,"Vercelli","VC",45.32398135,8.423234312,"Cornacchia",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",0,7
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,3,"Lombardia",19,"Cremona","CR",45.13336675,10.02420865,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,8,"Emilia-Romagna",38,"Ferrara","FE",44.83599085,11.61868934,"Gazza",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,3,"Lombardia",98,"Lodi","LO",45.31440693,9.503720769,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,20,"Sardegna",106,"Medio Campidano","VS",39.56296,8.65345,"Cornacchia",0,3
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,3,"Lombardia",15,"Milano","MI",45.46679409,9.190347404,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,8,"Emilia-Romagna",36,"Modena","MO",44.64600009,10.92615487,"Cornacchia",1,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,20,"Sardegna",95,"Oristano","OR",39.90381075,8.591183151,"Cornacchia",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",0,7
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_12.pdf",2017-11-02,1,"Piemonte",2,"Vercelli","VC",45.32398135,8.423234312,"Cornacchia",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"Gazza",0,7
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,3,"Lombardia",19,"Cremona","CR",45.13336675,10.02420865,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,8,"Emilia-Romagna",38,"Ferrara","FE",44.83599085,11.61868934,"Gazza",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,3,"Lombardia",98,"Lodi","LO",45.31440693,9.503720769,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,20,"Sardegna",106,"Medio Campidano","VS",39.56296,8.65345,"Cornacchia",0,3
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,3,"Lombardia",15,"Milano","MI",45.46679409,9.190347404,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,8,"Emilia-Romagna",36,"Modena","MO",44.64600009,10.92615487,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,20,"Sardegna",95,"Oristano","OR",39.90381075,8.591183151,"Cornacchia",0,2
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,4
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,8,"Emilia-Romagna",35,"Reggio nell'Emilia","RE",44.69735289,10.63007973,"Gazza",0,7
+"https://github.com/fbranda/west-nile/blob/main/2017/bollettini/WN_News_2017_13.pdf",2017-11-08,1,"Piemonte",2,"Vercelli","VC",45.32398135,8.423234312,"Cornacchia",0,2
