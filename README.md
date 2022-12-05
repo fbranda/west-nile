@@ -50,7 +50,7 @@ west-nile/
 
 - Dati andamento West Nile Italia: ogni settimana di mercoledì
 
-[drawing-1.pdf](https://github.com/fbranda/west-nile/files/10157709/drawing-1.pdf)
+<img src="https://github.com/fbranda/west-nile/blob/main/assets/img/esempio-flusso.jpg" alt="WNV" data-canonical-src="https://github.com/fbranda/west-nile/blob/main/assets/img/esempio-flusso.jpg" width="600"/>
 
 
 ## Formato dei dati
@@ -59,7 +59,7 @@ west-nile/
 
 ## Esempio d'uso dei dati
 
-**Download file (CSV)**: https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati/totale_casi.csv
+**Download diretto (CSV)**: https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati/totale_casi.csv
 
 **Python** (requires `pandas`):
 ```python
