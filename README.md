@@ -1,4 +1,4 @@
-<img src="https://www.upipa.tn.it/var/unione/storage/images/utilita/emergenza-covid19/formazione-informazione/informazione/siti-e-pubblicazioni-di-riferimento-sul-covid19/siti/epicentro-il-sito-web-dell-istituto-superiore-di-santia-riguardante-l-epidemiologia-per-la-sanita-pubblica-sezione-coronavirus/582235-1-ita-IT/Epicentro-il-sito-web-dell-Istituto-Superiore-di-Santia-riguardante-l-epidemiologia-per-la-sanita-pubblica-sezione-Coronavirus_imagefull.png" alt="ISS" width="400" />
+<img src="https://github.com/fbranda/west-nile/blob/main/assets/img/logo-wn.pdf" alt="WNV" data-canonical-src="https://github.com/fbranda/west-nile/blob/main/assets/img/logo-wn.pdf" width="400" />
 
 [Italiano](README.md) - [English](README_EN.md)<br><br>
 
