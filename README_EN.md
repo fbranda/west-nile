@@ -6,8 +6,7 @@
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/fbranda/west-nile/blob/main/LICENSE.md)
 
-[Sito dell'Istituto Superiore di Sanità - La sorveglianza dei casi umani di infezione da West Nile e Usutu virus
-](https://www.epicentro.iss.it/westnile/bollettino)
+[Sito dell'Istituto Superiore di Sanità - La sorveglianza dei casi umani di infezione da West Nile e Usutu virus (IT)](https://www.epicentro.iss.it/westnile/bollettino)
 
 
 In Italy, the epidemiological surveillance of West Nile virus (WNV) infections in humans is regulated by the "[“National prevention, surveillance and response plan for arboviral diseases (PNA) 2020-2025"](https://www.statoregioni.it/media/2371/p-1-csr-rep-n-1-15gen2020.pdf). 
