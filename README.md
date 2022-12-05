@@ -1,4 +1,4 @@
-<img src="https://github.com/fbranda/west-nile/blob/main/assets/img/logo-wn.pdf" alt="WNV" data-canonical-src="https://github.com/fbranda/west-nile/blob/main/assets/img/logo-wn.pdf" width="400" />
+<img src="https://github.com/fbranda/west-nile/blob/main/assets/img/logo-wn.png" alt="WNV" data-canonical-src="https://github.com/fbranda/west-nile/blob/main/assets/img/logo-wn.png" width="400" />
 
 [Italiano](README.md) - [English](README_EN.md)<br><br>
 
