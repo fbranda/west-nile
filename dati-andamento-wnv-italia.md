@@ -107,7 +107,6 @@
 | **lat**                     | Latitudine                         | WGS84              | 44.41722493	           |
 | **long**                    | Longitudine                        | WGS84              | 12.19913936	          |
 | **specie**                    | Nome della specie dei casi positivi      | Testo              | Gazza	          |
-
 | **nuovi_casi**  | Nuovi attualmente positivi (casi_totali giorno corrente - casi_totali giorno precedente)    | Numero                        | 1               |
 | **casi_totali**                 | Totale casi positivi              | Numero                        | 1                   |
 
@@ -126,7 +125,6 @@
 | **lat**                     | Latitudine                         | WGS84              | 44.49436681	           |
 | **long**                    | Longitudine                        | WGS84              | 11.3417208	          |
 | **specie**                    | Nome della specie dei casi positivi      | Testo              | Civetta	          |
-
 | **nuovi_casi**  | Nuovi attualmente positivi (casi_totali giorno corrente - casi_totali giorno precedente)    | Numero                        | 1               |
 | **casi_totali**                 | Totale casi positivi              | Numero                        | 1                   |
 
