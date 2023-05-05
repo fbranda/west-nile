@@ -1,4 +1,4 @@
-"url_bollettino","data","codice_regione","denominazione_regione","codice_provincia","denominazione:provincia","sigla_provincia","lat","long","eta","nuovi_casi","casi_totali","tipo_infezione"
+"url_bollettino","data","codice_regione","denominazione_regione","codice_provincia","denominazione_provincia","sigla_provincia","lat","long","eta","nuovi_casi","casi_totali","tipo_infezione"
 "https://github.com/fbranda/west-nile/blob/main/2016/bollettini/WN_News_2016_01.pdf",2016-07-28,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"<=14",0,0,"neuroinvasiva"
 "https://github.com/fbranda/west-nile/blob/main/2016/bollettini/WN_News_2016_01.pdf",2016-07-28,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"15-44",0,0,"neuroinvasiva"
 "https://github.com/fbranda/west-nile/blob/main/2016/bollettini/WN_News_2016_01.pdf",2016-07-28,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,"45-64",0,0,"neuroinvasiva"
