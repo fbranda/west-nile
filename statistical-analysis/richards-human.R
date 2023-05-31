@@ -1,3 +1,12 @@
+#################################################################
+########## Richards’ growth Generalized Linear Model ############
+#################################################################
+
+### 30/05/2023
+### Marco Mingione
+
+
+
 # Packages
 require(tidyverse)
 require(magrittr)
