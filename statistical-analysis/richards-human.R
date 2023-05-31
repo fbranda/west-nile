@@ -14,6 +14,7 @@ require(lubridate)
 require(zeallot)
 Sys.setlocale(locale = "C")
 
+# This code is available from the author upon request
 source("richards_mle/Fun_DRichFit_Off.R")
 
 # Prepare links to read from github repo
@@ -31,6 +32,7 @@ dat_wn <- map_dfr(links[grep("umana", links)],
 
 regY <- dat_wn %>% distinct(denominazione_regione, Y = year(data)) %>% arrange(denominazione_regione, Y)
 
+# Data preparation
 data_model <- dat_wn %>% 
   group_by(denominazione_regione, year(data)) %>% 
   mutate(ti = as.numeric(unclass(factor(data)))) %>%
