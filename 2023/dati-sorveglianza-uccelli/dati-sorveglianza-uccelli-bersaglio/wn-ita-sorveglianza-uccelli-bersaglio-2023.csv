@@ -1,4 +1,8 @@
 "url_bollettino","data","codice_regione","denominazione_regione","codice_provincia","denominazione_provincia","sigla_provincia","lat","long","specie","nuovi_casi","casi_totali"
 "https://github.com/fbranda/west-nile/blob/main/2023/bollettini/WN_News_2023_01.pdf",2023-05-24,3,"Lombardia",12,"Varese","VA",45.81701677,8.822868344,"Cornacchia",1,1
 "https://github.com/fbranda/west-nile/blob/main/2023/bollettini/WN_News_2023_02.pdf",2023-06-21,3,"Lombardia",12,"Varese","VA",45.81701677,8.822868344,"Cornacchia",0,1
-"https://github.com/fbranda/west-nile/blob/main/2023/bollettini/WN_News_2023_02.pdf",2023-06-21,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",0,1
+"https://github.com/fbranda/west-nile/blob/main/2023/bollettini/WN_News_2023_02.pdf",2023-06-21,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",1,1
+"https://github.com/fbranda/west-nile/blob/main/2023/bollettini/WN_News_2023_03.pdf",2023-07-05,3,"Lombardia",12,"Varese","VA",45.81701677,8.822868344,"Cornacchia",0,1
+"https://github.com/fbranda/west-nile/blob/main/2023/bollettini/WN_News_2023_03.pdf",2023-07-05,8,"Emilia-Romagna",39,"Ravenna","RA",44.41722493,12.19913936,"Gazza",1,1
+"https://github.com/fbranda/west-nile/blob/main/2023/bollettini/WN_News_2023_03.pdf",2023-07-05,20,"Sardegna",111,"Sud Sardegna","SU",39.16641462,8.526242676,"Cornacchia",2,2
+"https://github.com/fbranda/west-nile/blob/main/2023/bollettini/WN_News_2023_03.pdf",2023-07-05,1,"Piemonte",2,"Vercelli","VC",45.32398135,8.423234312,"Cornacchia",1,1
