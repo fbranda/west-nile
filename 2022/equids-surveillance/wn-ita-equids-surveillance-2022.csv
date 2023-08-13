@@ -1,4 +1,4 @@
-"url_bollettino","data","codice_regione","denominazione_regione","codice_provincia","denominazione_provincia","sigla_provincia","lat","long","nuovi_casi","casi_totali","nuovi_morti_abbattuti","totale_morti_abbattuti","equidi_presenti_focolaio"
+"url_bulletins","data","code_region","name_region","code_province","name_province","abbreviation_province","lat","long","new_cases","total_cases","new_deaths","total_deaths","num_equids_outbreak"
 "https://github.com/fbranda/west-nile/blob/main/2022/bollettini/WN_News_2022_07.pdf",2022-08-02,5,"Veneto",28,"Padova","PD",45.40692987,11.87608718,2,2,0,0,35
 "https://github.com/fbranda/west-nile/blob/main/2022/bollettini/WN_News_2022_07.pdf",2022-08-02,5,"Veneto",27,"Venezia","VE",45.43490485,12.33845213,1,1,0,0,103
 "https://github.com/fbranda/west-nile/blob/main/2022/bollettini/WN_News_2022_07.pdf",2022-08-02,5,"Veneto",24,"Vicenza","VI",45.547497,11.54597109,1,1,0,0,15
