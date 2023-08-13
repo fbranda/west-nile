@@ -28,22 +28,21 @@ In order to inform citizens and make the collected data available, which is only
 west-nile/
 │
 ├── */
-│   ├── bollettini/
+│   ├── bulletins/
 │   │   ├── WN_News_*.pdf
-│   ├── dati-andamento-nazionale/
-│   │   ├── wn-ita-andamento-nazionale-*.csv
-│   ├── dati-sorveglianza-umana/
-│   │   ├── wn-ita-province-sorveglianza-umana-*.csv
-│   │   ├── wn-ita-regioni-sorveglianza-umana-*.csv
-│   ├── dati-sorveglianza-entomologica/
-│   │   ├── wn-ita-sorveglianza-entomologica-*.csv
-│   ├── dati-sorveglianza-equidi/
-│   │   ├── wn-ita-sorveglianza-equidi-*.csv
-│   ├── dati-sorveglianza-uccelli/
-│   │   ├── dati-sorveglianza-uccelli-bersaglio
-│   │   │   ├── wn-ita-sorveglianza-uccelli-bersaglio-*.csv
-│   │   ├── dati-sorveglianza-uccelli-selvatici
-│   │   │   ├── wn-ita-sorveglianza-uccelli-selvatici-*.csv
+│   ├── national-trend/
+│   │   ├── wn-ita-national-trend-*.csv
+│   ├── human-surveillance/
+│   │   ├── wn-ita-provinces-human-surveillance-*.csv
+│   │   ├── wn-ita-regions-human-surveillance-*.csv
+│   ├── mosquito-surveillance/
+│   │   ├── wn-ita-mosquito-surveillance-*.csv
+│   ├── equids-surveillance/
+│   │   ├── wn-ita-equids-surveillance-*.csv
+│   ├── birds-surveillance/
+│   │   ├── wn-ita-target-birds-surveillance-*.csv
+│   │   ├── wn-ita-wild-birds-surveillance-*.csv
+
 ```
 
 ## Data updates
