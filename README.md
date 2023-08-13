@@ -28,20 +28,21 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 west-nile/
 │
 ├── */
-│   ├── bulletins/
+│   ├── bollettini/
 │   │   ├── WN_News_*.pdf
-│   ├── national-trend/
-│   │   ├── wn-ita-national-trend-*.csv
-│   ├── human-surveillance/
-│   │   ├── wn-ita-provinces-human-surveillance-*.csv
-│   │   ├── wn-ita-regions-human-surveillance-*.csv
-│   ├── mosquito-surveillance/
-│   │   ├── wn-ita-mosquito-surveillance-*.csv
-│   ├── equids-surveillance/
-│   │   ├── wn-ita-equids-surveillance-*.csv
-│   ├── birds-surveillance/
-│   │   ├── wn-ita-target-birds-surveillance-*.csv
-│   │   ├── wn-ita-wild-birds-surveillance-*.csv
+│   ├── dati-andamento-nazionale/
+│   │   ├── wn-ita-andamento-nazionale-*.csv
+│   ├── dati-sorveglianza-umana/
+│   │   ├── wn-ita-province-sorveglianza-umana-*.csv
+│   │   ├── wn-ita-regioni-sorveglianza-umana-*.csv
+│   ├── dati-sorveglianza-entomologica/
+│   │   ├── wn-ita-sorveglianza-entomologica-*.csv
+│   ├── dati-sorveglianza-equidi/
+│   │   ├── wn-ita-sorveglianza-equidi-*.csv
+│   ├── dati-sorveglianza-uccelli/
+│   │   ├── wn-ita-sorveglianza-uccelli-bersaglio-*.csv
+│   │   ├── wn-ita-sorveglianza-uccelli-selvatici-*.csv
+
 ```
 
 ## Aggiornamento e flusso dei dati
