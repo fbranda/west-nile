@@ -28,22 +28,20 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 west-nile/
 │
 ├── */
-│   ├── bollettini/
+│   ├── bulletins/
 │   │   ├── WN_News_*.pdf
-│   ├── dati-andamento-nazionale/
-│   │   ├── wn-ita-andamento-nazionale-*.csv
-│   ├── dati-sorveglianza-umana/
-│   │   ├── wn-ita-province-sorveglianza-umana-*.csv
-│   │   ├── wn-ita-regioni-sorveglianza-umana-*.csv
-│   ├── dati-sorveglianza-entomologica/
-│   │   ├── wn-ita-sorveglianza-entomologica-*.csv
-│   ├── dati-sorveglianza-equidi/
-│   │   ├── wn-ita-sorveglianza-equidi-*.csv
-│   ├── dati-sorveglianza-uccelli/
-│   │   ├── dati-sorveglianza-uccelli-bersaglio
-│   │   │   ├── wn-ita-sorveglianza-uccelli-bersaglio-*.csv
-│   │   ├── dati-sorveglianza-uccelli-selvatici
-│   │   │   ├── wn-ita-sorveglianza-uccelli-selvatici-*.csv
+│   ├── national-trend/
+│   │   ├── wn-ita-national-trend-*.csv
+│   ├── human-surveillance/
+│   │   ├── wn-ita-provinces-human-surveillance-*.csv
+│   │   ├── wn-ita-regions-human-surveillance-*.csv
+│   ├── mosquito-surveillance/
+│   │   ├── wn-ita-mosquito-surveillance-*.csv
+│   ├── equids-surveillance/
+│   │   ├── wn-ita-equids-surveillance-*.csv
+│   ├── birds-surveillance/
+│   │   ├── wn-ita-target-birds-surveillance-*.csv
+│   │   ├── wn-ita-wild-birds-surveillance-*.csv
 ```
 
 ## Aggiornamento e flusso dei dati
@@ -59,18 +57,17 @@ west-nile/
 
 ## Esempio d'uso dei dati
 
-**Download diretto (CSV)**: https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati-andamento-nazionale/wn-ita-andamento-nazionale-2022.csv
+**Download diretto (CSV)**: https://raw.githubusercontent.com/fbranda/west-nile/main/2022/national-trend/wn-ita-national-trend-2022.csv
 
 **Python** (richiede `pandas`):
 ```python
 import pandas as pd
-df = pd.read_csv("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati-andamento-nazionale/wn-ita-andamento-nazionale-2022.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/national-trend/wn-ita-national-trend-2022.csv")
 ```
 
-**R** (richiede `httr`):
+**R**:
 ```r
-library(httr)
-df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati-andamento-nazionale/wn-ita-andamento-nazionale-2022.csv")))
+df <- read.csv("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/national-trend/wn-ita-national-trend-2022.csv")
 ```
 
 ## Licenza
