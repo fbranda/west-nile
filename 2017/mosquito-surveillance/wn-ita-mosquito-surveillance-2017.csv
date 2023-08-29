@@ -1,4 +1,4 @@
-"url_bollettino","data","codice_regione","denominazione_regione","codice_provincia","denominazione_provincia","sigla_provincia","lat","long","nuovi_casi","casi_totali"
+"url_bulletins","data","code_region","name_region","code_province","name_province","abbreviation_province","lat","long","new_cases","total_cases"
 "https://github.com/fbranda/west-nile/blob/main/2017/bulletins/WN_News_2017_01.pdf",2017-08-02,8,"Emilia-Romagna",37,"Bologna","BO",44.49436681,11.3417208,2,2
 "https://github.com/fbranda/west-nile/blob/main/2017/bulletins/WN_News_2017_01.pdf",2017-08-02,8,"Emilia-Romagna",38,"Ferrara","FE",44.83599085,11.61868934,1,1
 "https://github.com/fbranda/west-nile/blob/main/2017/bulletins/WN_News_2017_01.pdf",2017-08-02,8,"Emilia-Romagna",36,"Modena","MO",44.64600009,10.92615487,2,2
