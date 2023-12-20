@@ -71,6 +71,8 @@ df = pd.read_csv("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/
 library(httr)
 df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/west-nile/main/2022/dati-andamento-nazionale/wn-ita-andamento-nazionale-2022.csv")))
 ```
+## Contributions
+1) [Mingione, M., Branda, F., Maruotti, A. et al. Monitoring the West Nile virus outbreaks in Italy using open access data. Sci Data 10, 777 (2023)](https://www.nature.com/articles/s41597-023-02676-0)
 
 ## License
 
