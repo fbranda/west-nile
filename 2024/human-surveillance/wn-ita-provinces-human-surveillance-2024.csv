@@ -1,0 +1,6 @@
+"url_bulletins","data","code_region","name_region","code_province","name_province","abbreviation_province","lat","long","age","new_cases","total_cases","type_infection"
+"https://github.com/fbranda/west-nile/blob/main/2024/bulletins/WN_News_2024_01.pdf",2024-06-26,8,"Emilia-Romagna",36,"Modena","MO",44.64600009,10.92615487,"<=14",0,0,"neuroinvasive"
+"https://github.com/fbranda/west-nile/blob/main/2024/bulletins/WN_News_2024_01.pdf",2024-06-26,8,"Emilia-Romagna",36,"Modena","MO",44.64600009,10.92615487,"15-44",0,0,"neuroinvasive"
+"https://github.com/fbranda/west-nile/blob/main/2024/bulletins/WN_News_2024_01.pdf",2024-06-26,8,"Emilia-Romagna",36,"Modena","MO",44.64600009,10.92615487,"45-64",0,0,"neuroinvasive"
+"https://github.com/fbranda/west-nile/blob/main/2024/bulletins/WN_News_2024_01.pdf",2024-06-26,8,"Emilia-Romagna",36,"Modena","MO",44.64600009,10.92615487,"65-74",0,0,"neuroinvasive"
+"https://github.com/fbranda/west-nile/blob/main/2024/bulletins/WN_News_2024_01.pdf",2024-06-26,8,"Emilia-Romagna",36,"Modena","MO",44.64600009,10.92615487,">=75",1,1,"neuroinvasive"
