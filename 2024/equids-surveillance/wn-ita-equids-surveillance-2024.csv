@@ -1,2 +1,4 @@
 "url_bulletins","data","code_region","name_region","code_province","name_province","abbreviation_province","lat","long","new_cases","total_cases","new_deaths","total_deaths","num_equids_outbreak"
 "https://github.com/fbranda/west-nile/blob/main/2024/bulletins/WN_News_2024_07.pdf",2024-08-07,16,"Puglia",75,"Lecce","LE",40.35354285,18.1718973,1,1,1,1,5
+"https://github.com/fbranda/west-nile/blob/main/2024/bulletins/WN_News_2024_08.pdf",2024-08-14,16,"Puglia",75,"Lecce","LE",40.35354285,18.1718973,0,1,0,1,5
+"https://github.com/fbranda/west-nile/blob/main/2024/bulletins/WN_News_2024_08.pdf",2024-08-14,13,"Abruzzo",69,"Chieti","CH",42.35103167,14.16754574,1,1,0,0,7
