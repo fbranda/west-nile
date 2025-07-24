@@ -1,2 +1,6 @@
 "url_bulletins","data","code_region","name_region","code_province","name_province","abbreviation_province","lat","long","species","new_cases","total_cases"
 "https://github.com/fbranda/west-nile/blob/main/2025/bulletins/WN_News_2025_01.pdf",2025-07-16,20,"Sardegna",95,"Oristano","OR",39.90381075,8.591183151,"Cornacchia",2,2
+"https://github.com/fbranda/west-nile/blob/main/2025/bulletins/WN_News_2025_02.pdf",2025-07-23,8,"Emilia-Romagna",40,"Forlì-Cesena","FC",44.22268559,12.04068608,"Gazza",1,1
+"https://github.com/fbranda/west-nile/blob/main/2025/bulletins/WN_News_2025_02.pdf",2025-07-23,8,"Emilia-Romagna",33,"Piacenza","PC",45.05193462,9.692632596,"Cornacchia",1,1
+"https://github.com/fbranda/west-nile/blob/main/2025/bulletins/WN_News_2025_02.pdf",2025-07-23,8,"Emilia-Romagna",34,"Parma","PR",44.80107394,10.32834985,"Gazza",3,3
+"https://github.com/fbranda/west-nile/blob/main/2025/bulletins/WN_News_2025_02.pdf",2025-07-23,20,"Sardegna",95,"Oristano","OR",39.90381075,8.591183151,"Cornacchia",0,2
